@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ny News</string>
+    <string name="load">Load</string>
+    <string name="retry">Retry</string>
+    <string name="no_news_error_message">No News found</string>
+    <string name="generic_news_error_message">Something went wrong. Try again later</string>
+    <string name="id">ID:</string>
+    <string name="name">Name:</string>
+    <string name="full_name">Full Name:</string>
+    <string name="description">Description:</string>
+    <string name="url">Url:</string>
+    <string name="published_date">Published Date:</string>
+    <string name="updated">Updated:</string>
+    <string name="full_hint">Fetching news.... </string>
+
+</resources>
